@@ -1,4 +1,4 @@
-Lottie Animation.
+Lottie in SwiftUI | Swift Packages.
 ================
 
 Lottie 4.3.0 now available, with official support for SwiftUI #2189
