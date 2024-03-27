@@ -1,17 +1,22 @@
 Lottie in SwiftUI | Swift Packages.
-================
+===============
 
 Lottie 4.3.0 now available, with official support for SwiftUI #2189
-----------------
+---------------
 ````ruby
 https://github.com/airbnb/lottie-ios/discussions/2189
 ````
 
 LottieFiles
-----------------
+---------------
 ````ruby
 https://app.lottiefiles.com/
 ````
+---------------
+
+https://github.com/Elaidzha1940/LottieAnimation/assets/64445918/7c219f16-490a-4163-8bd0-b338ff266358
+
+---------------
 
 LottieAnimation
 ---------------
@@ -48,5 +53,5 @@ struct ContentView: View {
     ContentView()
 }
 ````
----------
+-------------
 
