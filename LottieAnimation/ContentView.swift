@@ -8,11 +8,15 @@
 //  */
 
 import SwiftUI
+import Lottie
+
+// .json      - Old
+// .dotLottie - New
 
 struct ContentView: View {
     var body: some View {
         VStack {
-        
+            LottieView(animation: .named("AiAnimation"))
         }
     }
 }
