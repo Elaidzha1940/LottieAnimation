@@ -15,9 +15,17 @@ import Lottie
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            LottieView(animation: .named("AiAnimation"))
-        }
+        LottieView(animation: .named("AiAnimation"))
+            .configure({ lottieAnimationView in
+                lottieAnimationView.contentMode = .scaleAspectFill
+                lottieAnimationView.shouldRasterizeWhenIdle = true
+            })
+            .playbackMode(.playing(.toProgress(1, loopMode: .autoReverse)))
+//            .playbackMode(.paused(at: .progress(0.8))) // MARK: - Specific part
+            .animationDidFinish { completed in
+                // Do some, execute newxt screen
+            }
+        
     }
 }
 

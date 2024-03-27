@@ -58,7 +58,6 @@
 				E49CD4892BB43BE4004C34D6 /* LottieAnimationApp.swift */,
 				E49CD48B2BB43BE4004C34D6 /* ContentView.swift */,
 				E49CD48D2BB43BE5004C34D6 /* Assets.xcassets */,
-				E49CD49A2BB44871004C34D6 /* AiAnimation.json */,
 				E49CD48F2BB43BE5004C34D6 /* Preview Content */,
 			);
 			path = LottieAnimation;
@@ -67,6 +66,7 @@
 		E49CD48F2BB43BE5004C34D6 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				E49CD49A2BB44871004C34D6 /* AiAnimation.json */,
 				E49CD4902BB43BE5004C34D6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
