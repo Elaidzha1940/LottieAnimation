@@ -11,5 +11,5 @@ https://github.com/airbnb/lottie-ios/discussions/2189
 LottieFiles
 ----------------
 ````ruby
-Link - https://app.lottiefiles.com/
+https://app.lottiefiles.com/
 ````
