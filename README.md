@@ -1,4 +1,4 @@
-Lottie in SwiftUI | Swift Packages.
+Lottie in SwiftUI | Swift Package.
 ===============
 
 Lottie 4.3.0 now available, with official support for SwiftUI #2189
