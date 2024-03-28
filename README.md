@@ -6,6 +6,7 @@ Lottie 4.3.0 now available, with official support for SwiftUI #2189
 ````ruby
 https://github.com/airbnb/lottie-ios/discussions/2189
 ````
+---------------
 
 LottieFiles
 ---------------
